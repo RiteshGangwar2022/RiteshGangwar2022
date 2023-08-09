@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif)]
+[![MasterHead](https://th.bing.com/th/id/R.bddfcb5d2692e7865070a53fbf76aa3b?rik=0HMwaA0zGHcYEg&riu=http%3a%2f%2fbestanimations.com%2fComputers%2fPeripherals%2fcomputer-monitor-animated-gif-9.gif&ehk=2meeyiaT5yNJVX8%2bNOmzfqtG8wm3tsxaEx5ayHNY7pU%3d&risl=&pid=ImgRaw&r=0)]
 <h1 align="center">Hi 👋, I'm Ritesh Gangwar</h1>
 <h3 align="center">A passionate MERN full stack developer from Chandigarh, India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
