@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/120/120251.gif)]
+[![MasterHead](https://camo.githubusercontent.com/8f2adb828cb695434b43c603872145fccdfa4e9cc196cad2a859789159cb23a7/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3132302f3132303235312e676966)]
 <h1 align="center">Hi 👋, I'm Ritesh Gangwar</h1>
 <h3 align="center">A passionate MERN full stack developer from Chandigarh, India.</h3>
 <img align="right" alt="Coding"  src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
