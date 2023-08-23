@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **riteshgangwar2020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xUbQa0v9GTTSS2wpJVKUjDNWEPUn8Zoa/view?usp=sharing](https://drive.google.com/file/d/1xUbQa0v9GTTSS2wpJVKUjDNWEPUn8Zoa/view?usp=sharing)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ritesh-gangwar-9168b4225]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
