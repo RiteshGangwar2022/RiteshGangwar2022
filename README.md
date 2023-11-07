@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ritesh-gangwar-9168b4225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh-gangwar-9168b4225" height="30" width="40" /></a>
 <a href="https://instagram.com/riteshgangwar2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riteshgangwar2020/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ritesh_gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritesh_gangwar" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/riteshgangwar2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riteshgangwar2020/" height="30" width="40" /></a>
 </p>
 
