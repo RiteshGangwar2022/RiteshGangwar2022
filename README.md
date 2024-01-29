@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **PUExam (a question Paper Distribution System)**
 
-- 🌱 I’m currently learning **Python, Django**
-
 - 👨‍💻 All of my projects are available at [https://riteshgangwar2022.github.io/Portfolio/](https://riteshgangwar2022.github.io/Portfolio/)
 
 - 💬 Ask me about **MERN stack**
